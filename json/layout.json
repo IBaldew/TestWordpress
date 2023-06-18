@@ -1,0 +1,121 @@
+{ 
+    "list": [
+        {
+            "file": "0.jpg",
+            "category": "beach"
+        },
+        {
+            "file": "0.jpg",
+            "category": "beach"
+        },
+        {
+            "file": "0.jpg",
+            "category": "beach"
+        },
+        {
+            "file": "0.jpg",
+            "category": "beach"
+        },
+        {
+            "file": "0.jpg",
+            "category": "city"
+        },
+        {
+            "file": "0.jpg",
+            "category": "sky"
+        },
+        {
+            "file": "0.jpg",
+            "category": "beach"
+        },
+        {
+            "file": "0.jpg",
+            "category": "beach"
+        },
+        {
+            "file": "0.jpg",
+            "category": "beach"
+        },
+        {
+            "file": "0.jpg",
+            "category": "city"
+        },
+        {
+            "file": "0.jpg",
+            "category": "city"
+        },
+        {
+            "file": "0.jpg",
+            "category": "city"
+        },
+        {
+            "file": "0.jpg",
+            "category": "sky"
+        },
+        {
+            "file": "0.jpg",
+            "category": "sky"
+        },
+        {
+            "file": "0.jpg",
+            "category": "sky"
+        },
+        {
+            "file": "0.jpg",
+            "category": "city"
+        },
+        {
+            "file": "0.jpg",
+            "category": "city"
+        },
+        {
+            "file": "0.jpg",
+            "category": "city"
+        },
+        {
+            "file": "0.jpg",
+            "category": "city"
+        },
+        {
+            "file": "0.jpg",
+            "category": "city"
+        },
+        {
+            "file": "0.jpg",
+            "category": "sky"
+        },
+        {
+            "file": "0.jpg",
+            "category": "sky"
+        },
+                {
+            "file": "0.jpg",
+            "category": "beach"
+        },
+        {
+            "file": "0.jpg",
+            "category": "beach"
+        },
+        {
+            "file": "0.jpg",
+            "category": "sky"
+        },
+        {
+            "file": "0.jpg",
+            "category": "sky"
+        },
+        {
+            "file": "0.jpg",
+            "category": "sky"
+        }
+    ],
+    "sort": ["file", "category"],
+    "random": "on",
+    "filter-first": "beach",
+    "filter-type": "single",
+    "filter-labels": {
+        "beach": "Beach Stock Photos",
+        "city": "City Stock Photos",
+        "sky": "Sky Stock Photos"
+    }
+}
